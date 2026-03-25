@@ -32,7 +32,7 @@ tags: #vibe_coding #obsidian #archive #antigravity #initialization #template
 ---
 
 ## ✅ 2. 주요 성과 (Key Accomplishments)
-**태그**: #Project/ObsidianRecorder #TemplateDesign #WorkflowAutomation
+**태그**: #Project/AntigravityRecords #TemplateDesign #WorkflowAutomation
 
 ### 1. 고도화된 마스터-버전 구조 확립
 - YAML Frontmatter를 포함한 전문적인 문서 관리 체계 도입.
