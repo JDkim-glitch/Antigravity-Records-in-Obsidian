@@ -2,11 +2,11 @@
 date: 2026-03-25
 version: v1.0
 type: vibe_log
-project: "[[Obsidian_Recorder_Master]]"
+project: "[[Antigravity_Records_in_Obsidian_Master]]"
 tags: #vibe_coding #obsidian #archive #antigravity #initialization #template
 ---
 
-# 🎯 V1.0 작업 일지: Obsidian Recorder 초기 구축 및 템플릿 설계 완료
+# 🎯 V1.0 작업 일지: Antigravity Records in Obsidian 초기 구축 및 템플릿 설계 완료
 
 * **적용된 아카이빙 룰:** [[Rule_Archiving]]
 * **이번 버전의 핵심 목표:** 바이브 코딩 아카이빙을 위한 정형화된 시스템을 구축하고, 유저의 선호 스타일이 반영된 고도화된 템플릿을 설계.
@@ -61,7 +61,7 @@ tags: #vibe_coding #obsidian #archive #antigravity #initialization #template
 ---
 
 ## 🔗 5. 내부 링크 (Automated Context)
-- [[Obsidian_Recorder_Master]] - 이 프로젝트의 마스터 대시보드
+- [[Antigravity_Records_in_Obsidian_Master]] - 이 프로젝트의 마스터 대시보드
 - [[서비스사용량 통합 대시보드_Master]] - 템플릿의 벤치마킹 대상
 - [[서비스사용량통합대시보드_v1.0_UI작업_로그]] - 이전 작업 스타일 참고
 - [[서비스사용량통합대시보드_v2.0_API연동_로그]] - 고도화 템플릿의 원형
